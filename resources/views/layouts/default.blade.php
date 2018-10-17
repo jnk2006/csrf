@@ -8,10 +8,11 @@
     @include('includes.menu')
 
     <main role="main">
-    @yield('content')
+        @yield('content')
+    </main>
 
     @include('includes.jsfooter')
-    </main>
+    @include('includes.footer')
 
 </body>
 </html>
