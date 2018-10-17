@@ -6,7 +6,7 @@
             <p class="lead">Please use this form to contact.</p></div>
         <div class="card-body">
             <form action="{{route('contact.store')}}" method="post">
-                {{ csrf_token() }}
+                {{ csrf_field() }}
                 <div class="form-group">
                     <label for="name">Name</label>
                     <input name="name" type="name" class="form-control" id="name" placeholder="Enter your name">
