@@ -5,9 +5,13 @@
 @include('includes.head')
 
 <body>
-@yield('content')
+    @include('includes.menu')
 
-@include('includes.jsfooter')
+    <main role="main">
+    @yield('content')
+
+    @include('includes.jsfooter')
+    </main>
 
 </body>
 </html>
