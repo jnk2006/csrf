@@ -6,13 +6,14 @@
     <!-- Main jumbotron for a primary marketing message or call to action -->
     <div class="jumbotron jumbotron-fluid bg-dark">
         <div class="jumbotron-background">
-            <img src="https://us.123rf.com/450wm/mitoimages/mitoimages1705/mitoimages170510083/78802448-close-up-of-raw-food-on-kitchen-counter-for-chicken-soup-munich-bavaria-germany.jpg" class="blur"
-            width="1100px" height="500px">
+            <img src="https://us.123rf.com/450wm/mitoimages/mitoimages1705/mitoimages170510083/78802448-close-up-of-raw-food-on-kitchen-counter-for-chicken-soup-munich-bavaria-germany.jpg"
+                 class="blur"
+                 width="1100px" height="500px">
         </div>
         <div class="container">
             <h1 class="display-3">Welcome to The Bouffage</h1>
             <h4> The only site that enables you to obtain the recipes based on the ingredients available in your
-                    house.</h4>
+                house.</h4>
             <p><a class="btn btn-primary btn-md" href="#" role="button">Click here</a> To enter your ingredients</p>
         </div>
     </div>
